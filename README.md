@@ -5,7 +5,7 @@ A cross-platform quiz application built with Flutter, designed to run on Android
 ## Features
 
 - **Cross-platform support**: Works on Android, iOS, Linux, macOS, Windows, and Web.
-- **Responsive design**: Designed to work seamlessly on mobile, desktop, and web platforms.
+- **Responsive design**: Designed to work seamlessly on mobile, and desktop.
 - **Quiz interface**: Users can answer a series of quiz questions.
 - **Results page**: Display the results after the quiz is completed.
 
