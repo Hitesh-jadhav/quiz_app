@@ -1,6 +1,6 @@
 # Quiz App
 
-A cross-platform quiz application built with Flutter, designed to run on Android, iOS, Linux, macOS, Windows, and Web.
+A cross-platform quiz application built with Flutter, designed to run on Android, iOS, Linux, macOS, and Windows.
 
 ## Features
 
